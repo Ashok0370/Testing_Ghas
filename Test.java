@@ -32,7 +32,7 @@ public class Test {
     // Driver method
     public static void main(String args[])
     {
-        int arr[] = { 12, 11, 13, 5, 6 };
+        int arr[] = { 12, 11, 13, 5, 6 , 34567,5678,234567,98,568 };
 
         Test ob = new Test();
         ob.sort(arr);
